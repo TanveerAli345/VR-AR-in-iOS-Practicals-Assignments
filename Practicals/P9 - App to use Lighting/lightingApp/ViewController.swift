@@ -1,8 +1,7 @@
 //
 //  ViewController.swift
-//  lightingApp
 //
-//  Created by Student on 09/03/22.
+//  Created by Tanveer Ali
 //
 
 import UIKit
