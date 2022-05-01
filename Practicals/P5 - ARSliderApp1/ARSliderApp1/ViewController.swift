@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  ARSliderApp1
 //
-//  Created by Aman Bind on 21/02/22.
+//  Created by Tanveer Ali
 //
 
 import UIKit
