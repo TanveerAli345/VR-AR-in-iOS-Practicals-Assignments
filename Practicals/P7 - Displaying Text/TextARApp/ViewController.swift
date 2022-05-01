@@ -1,8 +1,7 @@
 //
 //  ViewController.swift
-//  TextARApp
 //
-//  Created by Aman Bind on 17/03/22.
+//  Created by Tanveer Ali
 //
 
 import UIKit
@@ -22,7 +21,7 @@ class ViewController: UIViewController {
         sceneView.showsStatistics = true
         
         let text = SCNNode()
-        text.geometry = SCNText(string: "Aman Bind", extrusionDepth: 0.2)
+        text.geometry = SCNText(string: "Tanveer Ai Tapya", extrusionDepth: 0.2)
         text.geometry?.firstMaterial?.diffuse.contents = UIColor.magenta
         text.position = SCNVector3(0,0,0)
         sceneView.scene.rootNode.addChildNode(text)
