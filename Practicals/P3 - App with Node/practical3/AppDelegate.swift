@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  practical3
 //
-//  Created by Kratik Kamdar on 07/04/22.
+//  Created by Tanveer Ali
 //
 
 import UIKit
