@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  relativePositionARApp
 //
-//  Created by Aman Bind on 22/03/22.
+//  Created by Tanveer Ali
 //
 
 import UIKit
