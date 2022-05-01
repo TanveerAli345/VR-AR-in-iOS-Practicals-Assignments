@@ -1,8 +1,7 @@
 //
 //  ViewController.swift
-//  drawingAppAR
 //
-//  Created by Aman Bind on 10/04/22.
+//  Created by Tanveer Ali
 //
 
 import UIKit
