@@ -1,9 +1,7 @@
 //
 //  ViewController.swift
-//  practical3
-//  Adding object structure
 //
-//  Created by Kratik Kamdar.
+//  Created by Tanveer Ali
 //
 
 import UIKit
