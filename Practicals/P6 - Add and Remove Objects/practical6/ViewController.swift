@@ -1,9 +1,7 @@
 //
 //  ViewController.swift
-//  practical6
-//  Adding different shapes in sceneView
 //
-//  Created by Kratik Kamdar.
+//  Created by Tanveer Ali
 //
 
 import UIKit
