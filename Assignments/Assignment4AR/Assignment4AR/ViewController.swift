@@ -1,8 +1,7 @@
 //
 //  ViewController.swift
-//  Assignment4AR
 //
-//  Created by Aman Bind on 05/03/22.
+//  Created by Tanveer Ali
 //
 
 import UIKit
