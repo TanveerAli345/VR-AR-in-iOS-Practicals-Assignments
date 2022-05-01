@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SingleViewAppAR
 //
-//  Created by Aman Bind on 22/02/22.
+//  Created by Tanveer Ali
 //
 
 import UIKit
