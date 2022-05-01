@@ -1,9 +1,7 @@
 //
 //  ViewController.swift
-//  practical7
-//  Adding texture on object.
 //
-//  Created by Kratik Kamdar.
+//  Created by Tanveer Ali
 //
 
 import UIKit
