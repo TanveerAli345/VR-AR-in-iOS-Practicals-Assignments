@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  TextARApp
 //
-//  Created by Aman Bind on 17/03/22.
+//  Created by Tanveer Ali
 //
 
 import UIKit
