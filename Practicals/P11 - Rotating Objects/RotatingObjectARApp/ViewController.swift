@@ -1,8 +1,7 @@
 //
 //  ViewController.swift
-//  RotatingObjectARApp
 //
-//  Created by Aman Bind on 24/03/22.
+//  Created by Tanveer Ali
 //
 
 import UIKit
