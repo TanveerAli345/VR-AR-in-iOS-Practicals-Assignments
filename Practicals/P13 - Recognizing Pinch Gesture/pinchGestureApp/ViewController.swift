@@ -1,8 +1,7 @@
 //
 //  ViewController.swift
-//  pinchGestureApp
 //
-//  Created by Aman Bind on 07/04/22.
+//  Created by Tanveer Ali
 //
 
 import UIKit
