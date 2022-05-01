@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  WorldOriginApp
 //
-//  Created by Aman Bind on 23/02/22.
+//  Created by Tanveer Ali
 //
 
 import UIKit
